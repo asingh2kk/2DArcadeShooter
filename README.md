@@ -40,8 +40,3 @@ This is a 2D shooter game built in Java, featuring enemies with different states
    ```bash
    java -cp out com.company.Main
    ```
-
-## Usage
-
-- **Player Controls**: The player can move and interact with enemies in the game using predefined controls (ensure to modify this section once you provide the actual control mechanisms).
-- **Enemy Behavior**: Enemies appear with varying behaviors and states, making gameplay challenging and dynamic.
